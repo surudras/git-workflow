@@ -15,4 +15,11 @@ Featur2()
 //Sample Code for Feature 2
 }
 
+hotfix()
+
+{
+  //Sample Code for hotfix
+}
+
+
 }
